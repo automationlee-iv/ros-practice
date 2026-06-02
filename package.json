@@ -1,0 +1,22 @@
+{
+  "name": "proyros",
+  "version": "1.0.0",
+  "description": "learning e2e automation with cypress",
+  "keywords": [
+    "e2e",
+    "cypress",
+    "automation"
+  ],
+  "license": "ISC",
+  "author": "Lee",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^15.10.0",
+    "cypress-mochawesome-reporter": "^4.0.2"
+  }
+}

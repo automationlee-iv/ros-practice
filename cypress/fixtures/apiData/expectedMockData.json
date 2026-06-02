@@ -1,0 +1,17 @@
+{
+  "responseCode": 200,
+  "products": [
+    {
+      "id": 5,
+      "name": "Stylish Dress",
+      "price": "Rs. 1500",
+      "brand": "Madame",
+      "category": {
+        "usertype": {
+          "usertype": "Women"
+        },
+        "category": "Dress"
+      }
+    }
+  ]
+}

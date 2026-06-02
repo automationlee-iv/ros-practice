@@ -1,0 +1,4 @@
+export const userData = {
+    userName: 'standard_user',
+    userPassword: 'secret_sauce'
+}

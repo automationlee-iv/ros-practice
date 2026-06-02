@@ -1,0 +1,1 @@
+export const singUploginButton = 'a[href="/login"]'
